@@ -47,11 +47,11 @@ PATIENT: Maria | RISK: 🔴 HIGH FEVER | ACTION: Acetaminophen 1g, notify MD, re
 - **Zero missed steps** (structured format)
 - **Works worldwide** (universal protocols)
 
-## 🚀 Why This Wins
+## 🚀 Why This Is Useful
 - Perfect **domain-specific agent** (healthcare triage)
 - Clear **multi-step reasoning** demo
 - **Measurable impact** for busy clinics
-- **Live demo** + screenshots = judge-friendly
+- **Live demo** + screenshots
 
 **MIT License** - Open source for all clinics worldwide.
 
