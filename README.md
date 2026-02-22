@@ -9,10 +9,6 @@ AI for busy nurses
 **[Test NurseFlow Live](https://my-elasticsearch-project-f0ceca.kb.us-east-1.aws.elastic.cloud/app/agent_builder/conversations/new?agent_id=nurseflow)**  
 Click → Agent Builder → Test tab → Try: `"Maria fever 102 pulse 115"`
 
-## 📸 Demo Screenshots
-![NurseFlow Demo](nurseflow-demo.png)
-*Structured triage output in 2 seconds*
-
 ## 🎯 Problem Solved
 **Nurses waste 10+ minutes per patient** checking scattered vitals across apps, notes, monitors.  
 **NurseFlow delivers instant triage** with WHO-standard protocols.
@@ -51,7 +47,7 @@ PATIENT: Maria | RISK: 🔴 HIGH FEVER | ACTION: Acetaminophen 1g, notify MD, re
 - Perfect **domain-specific agent** (healthcare triage)
 - Clear **multi-step reasoning** demo
 - **Measurable impact** for busy clinics
-- **Live demo** + screenshots
+- **Live demo**
 
 **MIT License** - Open source for all clinics worldwide.
 
