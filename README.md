@@ -3,7 +3,6 @@ AI for busy nurses
 # 🏥 NurseFlow Agent
 
 **Real-time AI triage agent for nurses worldwide**  
-*Elasticsearch Agent Builder Hackathon Entry*
 
 ## 🔴 LIVE DEMO
 **[Test NurseFlow Live](https://my-elasticsearch-project-f0ceca.kb.us-east-1.aws.elastic.cloud/app/agent_builder/conversations/new?agent_id=nurseflow)**  
